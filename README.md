@@ -5,5 +5,5 @@
 Embed this code in your styles:
 
 ```css
-@import url('https://cdn.statically.io/gh/melindachang/San-Francisco-Pro-Fonts/main/sf-pro.min.css');
+@import url('https://cdn.jsdelivr.net/gh/melindachang/San-Francisco-Pro-Fonts@main/sf-pro.min.css');
 ```
